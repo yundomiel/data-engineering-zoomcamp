@@ -14,3 +14,6 @@
 serving_dir
 .ipynb_checkpoints/
 !week_6_stream_processing/avro_example/data/rides.csv
+01-docker-terraform/01-practice/*.csv
+01-docker-terraform/01-practice/*.parquet
+01-docker-terraform/01-practice/venv/
